@@ -1,3 +1,5 @@
 # EDGI_Workshop
 
-Eric Zhong was here
+| Name | Github handle |
+|--|--|
+| Kelsey Breseman | @Frijol |
