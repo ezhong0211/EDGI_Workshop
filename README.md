@@ -1,5 +1,10 @@
 # EDGI_Workshop
 
-Eric Zhong was here
+=======
+| Name | Github handle |
+|--|--|
+| Kelsey Breseman | @Frijol |
+| Luke Leh  | @leucc |
+| Eric Zhong | @idk|
 
 Steve was here, too.
